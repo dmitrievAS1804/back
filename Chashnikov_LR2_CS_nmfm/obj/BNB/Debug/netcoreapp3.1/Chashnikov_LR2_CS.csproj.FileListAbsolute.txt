@@ -1,0 +1,7 @@
+C:\Users\Дом Ч\Desktop\3-ий курс 6-ой семестр\Кроссплатформенная разработка\ЛР2\Chashnikov_LR2_CS_nmfm\obj\BNB\Debug\netcoreapp3.1\Chashnikov_LR2_CS.csprojAssemblyReference.cache
+C:\Users\Дом Ч\Desktop\3-ий курс 6-ой семестр\Кроссплатформенная разработка\ЛР2\Chashnikov_LR2_CS_nmfm\obj\BNB\Debug\netcoreapp3.1\Chashnikov_LR2_CS.AssemblyInfoInputs.cache
+C:\Users\Дом Ч\Desktop\3-ий курс 6-ой семестр\Кроссплатформенная разработка\ЛР2\Chashnikov_LR2_CS_nmfm\obj\BNB\Debug\netcoreapp3.1\Chashnikov_LR2_CS.AssemblyInfo.cs
+C:\Users\Дом Ч\Desktop\3-ий курс 6-ой семестр\Кроссплатформенная разработка\ЛР2\Chashnikov_LR2_CS_nmfm\obj\BNB\Debug\netcoreapp3.1\Chashnikov_LR2_CS.csproj.CoreCompileInputs.cache
+C:\Users\Дом Ч\Desktop\3-ий курс 6-ой семестр\Кроссплатформенная разработка\ЛР2\Chashnikov_LR2_CS_nmfm\obj\BNB\Debug\netcoreapp3.1\Chashnikov_LR2_CS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Дом Ч\Desktop\3-ий курс 6-ой семестр\Кроссплатформенная разработка\ЛР2\Chashnikov_LR2_CS_nmfm\obj\BNB\Debug\netcoreapp3.1\Chashnikov_LR2_CS.RazorAssemblyInfo.cache
+C:\Users\Дом Ч\Desktop\3-ий курс 6-ой семестр\Кроссплатформенная разработка\ЛР2\Chashnikov_LR2_CS_nmfm\obj\BNB\Debug\netcoreapp3.1\Chashnikov_LR2_CS.RazorAssemblyInfo.cs

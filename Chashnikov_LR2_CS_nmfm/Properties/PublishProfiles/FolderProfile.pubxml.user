@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <History>True|2021-04-14T11:01:29.9662845Z;True|2021-03-30T23:11:54.0813941+03:00;True|2021-03-30T21:53:59.5505761+03:00;True|2021-03-30T21:53:05.3524762+03:00;True|2021-03-30T18:33:52.7610803+03:00;False|2021-03-30T18:33:03.8402822+03:00;False|2021-03-30T18:32:36.3487097+03:00;</History>
+    <_PublishTargetUrl>C:\Users\1\Desktop\3-ый курс 6-ой семестр\My Handsome way continue to\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
